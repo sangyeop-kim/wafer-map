@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+secret_info.json
+test.ipynb
+dataset/
